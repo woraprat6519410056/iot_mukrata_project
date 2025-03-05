@@ -19,7 +19,7 @@ class _HomeUIState extends State<HomeUI> {
   //สร้างตัวแปรเก็บ UI ที่จะแสดงส่งล้อกับ item ของ AnimatedNotchBottomBar ที่เลือก
   List<Widget> itemUIShow = [
     CalBillUi(),
-    MenuUi(),
+    MenuUI(),
     AboutUi(),
   ];
 
