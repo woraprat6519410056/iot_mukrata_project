@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    IoTMukarataProject(),
+    );
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class IotMukarataProject extends StatelessWidget {
+  const IotMukarataProjecte ext});
 
   // This widget is the root of your application.
   @override
