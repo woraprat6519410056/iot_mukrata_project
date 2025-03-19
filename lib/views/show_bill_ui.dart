@@ -67,8 +67,8 @@ class _ShowBillUiState extends State<ShowBillUi> {
               widget.imageFile == null
                   ? Image.asset(
                       'assets/images/camera.jpg',
-                      width: 150,
-                      height: 150,
+                      width: 140,
+                      height: 140,
                     )
                   : Image.file(
                       widget.imageFile!,
